@@ -2,6 +2,13 @@
 
 You can find me at [Discord Server](https://discord.gg/uf3hemWkGg) or Email.
 
+---
+
+## Signature
+
+- Learn GoLang with Discord. [Sketchbook-discordbot](https://github.com/fingerissue/Sketchbook-discordbot)
+- The first big project. Optimization is a mess, but it was for high school su-haeng. [bubble-shooter](https://github.com/fingerissue/bubble-shooter)
+
 <!--
 **fingerissue/fingerissue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
