@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+You can find me at [Discord Server](https://discord.gg/uf3hemWkGg) or Email.
+
 <!--
 **fingerissue/fingerissue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
